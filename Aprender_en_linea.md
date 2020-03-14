@@ -38,8 +38,26 @@
 
 *(Todos los retos que tiene un estudiante Reflexivo, Yo los tengo)*
 
+* Inteligencia:
+    - Las personas nacen siendo inteligentes. (40% o 50%)
+    - Las personas se pueden volver inteligentes. (50%)
+
+* Técnica Pomodoro.
+    * 25 min de consentración.
+    * 5 min break.
+    * 4 ciclos de 25 min. 15 min de Break.
+
+* Memoria: Capacidad de recordar algo.
+    * Cuando memorizas algo tienes un 90% de olvidarlo.
+    * Cuando  lo repasas en 24% un 70%.
+    * Cuando lo repasas 1 semana despues un 50%.
+    * Cuando lo repasas 1 mes después un 10%.
 
 # Notas:
 * Tiempo corto de tiempo con breaks (Pomodoro): Temas complejos.
 * Tiempo largos periodos.: Temas fáciles.
 * Soy 100% Estudiante Pragmático. Todo lo quiero enfocar a algo que conozco y que ya funciona.
+* Cuando memorizas algo tienes un 90% de olvidarlo.
+* Cuando  lo repasas en 24% un 70%.
+* Cuando lo repasas 1 semana despues un 50%.
+* Cuando lo repasas 1 mes después un 10%.
